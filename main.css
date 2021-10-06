@@ -1,0 +1,31 @@
+html , body{
+    margin: 5px;
+    font-family: 'Playfair Display', serif;
+}
+.top{
+    display: flex;
+    justify-content: center;
+}
+.top__imagine{
+   /* margin: 0px 200px; */
+   margin: auto;
+}
+.top__infor{
+    text-align: center;
+    margin: auto;
+    margin-left: 0 ;
+}
+.address {
+    margin-top: 20px;
+}
+ul{
+    list-style: circle;
+}
+.top__infor b{
+    font-size: 35px;
+    color :cadetblue;
+}
+a{
+    margin: 3px;
+    
+}
